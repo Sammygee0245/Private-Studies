@@ -29,11 +29,11 @@
 .ctlm {
   font-family: Arial;
   margin-top: 10px;
-  border: 1px solid blue;
+  border: 1px solid rgb(255, 0, 0);
   padding: 4px 20px;
   border-radius: 5px;
   text-decoration: none;
-  background-color: blue;
+  background-color: rgb(255, 0, 0);
   color: #fff;
   cursor: pointer;
 }
